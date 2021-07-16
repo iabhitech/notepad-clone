@@ -14,8 +14,8 @@ Project design using Java Swing technology
 4. Open cloned repo in netbeans
 
 **How to Download this application:** 
-- To download executable file for windows OS (.exe): <a href="release/Notepad Clone-1.0.exe">Click Here (52 MB)</a>
-- To download jar executable file (.jar): <a href="release/Notepad_Clone.jar">Click Here (20 KB)</a>
+- To download executable file for windows OS (.exe): <a href="https://github.com/iabhitech/notepad-clone/blob/master/release/Notepad%20Clone-1.0.exe">Click Here (52 MB)</a>
+- To download jar executable file (.jar): <a href="https://github.com/iabhitech/notepad-clone/blob/master/release/Notepad_Clone.jar">Click Here (20 KB)</a>
 
 
 
